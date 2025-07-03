@@ -22,6 +22,7 @@ export default function Home() {
         </aside>
       <main className={styles.mainContent}>
         <EntryCard />
+        Hello World
       </main>
     </div>
     </>
