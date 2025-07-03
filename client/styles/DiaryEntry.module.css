@@ -1,0 +1,14 @@
+.textarea {
+    font-family: "Mansalva", sans-serif;
+    font-weight: 600;
+    font-size: 30px;
+    font-style: normal;
+    width: 500px;
+    height: 300px;
+    padding: 1rem;
+    border: 1px solid #d1d5db; /* gray-300 */
+    border-radius: 0.75rem;
+    outline: none;
+    color: #374151; /* gray-700 */
+    resize: none;
+}
